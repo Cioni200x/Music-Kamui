@@ -9,4 +9,4 @@ class MyClient(discord.Client):
         print('Message from {0.author}: {0.content}'.format(message))
 
 client = MyClient()
-client.run('OTQ1MDQ0MTA3ODYzMTUwNjky.YhKa6Q.G4SuwkomTHNHmOrFY08XVVPz74Q')
+client.run('TOKEN')
